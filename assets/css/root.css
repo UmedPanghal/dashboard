@@ -31,7 +31,7 @@
 }
 
 .color-bg-blue {
-    background-color: var(--color-bg-blue);
+    background-color: var(--color-bg-blue) !important;
 }
 
 .color-white-2 {
@@ -43,7 +43,7 @@
 }
 
 .color-light-grey {
-    background-color: var(--color-light-grey);
+    background-color: var(--color-light-grey) !important;
 }
 
 .color-light-grey-text {
